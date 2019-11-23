@@ -1,1 +1,2 @@
-# flight
+Flight Reservation System
+Copyright AeroTicketing
